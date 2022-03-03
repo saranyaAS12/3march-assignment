@@ -1,0 +1,9 @@
+# 3march-assignment​Tuple1=["bunny","candy","vicky","pinky"]  
+ ​Tuple2=["1","2","3","4","5","6"]  
+ ​Tuple3=Tupleq+Tuple2
+ ​print(Tuple3)  
+
+
+
+ ​Output  
+ ​['bunny','candy','vicky','pinky','1','2','3','4','5','6',]
